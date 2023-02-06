@@ -19,7 +19,7 @@ It's based on this package https://github.com/praveen-palanisamy/multiple-object
 
 ### Usage
 
-`ros2 run pcl_object_detection pcl_object_detection --ros-args --param-file config/config.yaml`
+`ros2 run pcl_object_detection pcl_object_detection_node --ros-args --param-file config/config.yaml`
 
 
 ### Topics
